@@ -1,4 +1,4 @@
- ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQE6pWD5scArqw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719351463243?e=1756944000&v=beta&t=HVYn-t44_7V9uorZNmSR8xsM7v54yZigBazDX2ZRIn0)
+
 
 <h1 align="center">Merhaba 👋,Ben Miraç Kaan Şengül</h1>
 <h3 align="center">Full Stack Web Dev & Flutter Dev</h3>
