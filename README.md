@@ -10,7 +10,7 @@
     Fullstack Web & Mobile Developer
   </h3>
 </div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="100%" height="4" />
+
 
 ## 🛠️ Tech Stack
 
