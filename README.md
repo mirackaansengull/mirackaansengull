@@ -68,15 +68,5 @@
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirackaansengull&theme=react" alt="Profile Summary"/>
 </div>
 
----
-
-## 💬 Let's Connect
-
-<div align="left">
-
-  <a href="mailto:mirac.kaansengull@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="50" align="center" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mira%C3%A7-kaan-%C5%9Feng%C3%BCl-8560232a8/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="50" align="center" /></a>
-  
- 
 
 
-</div>
