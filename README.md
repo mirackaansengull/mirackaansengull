@@ -16,10 +16,6 @@
 
 <div align="left">
 
-###  Programming Languages
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,dart&theme=dark" />
-</a>
 
 ---
 
@@ -32,7 +28,7 @@
 
 ###  Frontend Development
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
 </a>
 
 ---
