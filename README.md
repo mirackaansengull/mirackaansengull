@@ -16,12 +16,9 @@
 
 <div align="left">
 
-
----
-
-###  Backend Development
+###  Mobile Development
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,php&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" />
 </a>
 
 ---
@@ -33,9 +30,9 @@
 
 ---
 
-###  Mobile Development
+###  Backend Development
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,php&theme=dark" />
 </a>
 
 ---
